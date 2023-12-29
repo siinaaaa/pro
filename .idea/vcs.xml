@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/python-docker-dev" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/welcome-to-docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/welcome-to-docker/docker-nodejs-sample" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/welcome-to-docker/python-docker" vcs="Git" />
+  </component>
+</project>
