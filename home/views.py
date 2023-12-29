@@ -27,3 +27,6 @@ class Base(APIView):
 
 def bet(request):
     return HttpResponse("ok")
+
+def gg(request):
+    return HttpResponse("104")
